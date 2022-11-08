@@ -1,0 +1,19 @@
+{
+  "name": "@shivvamm/test-pkg",
+  "version": "1.0.0",
+  "description": "Test Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivvamm/test-pkg.git"
+  },
+  "author": "shivam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shivvamm/test-pkg/issues"
+  },
+  "homepage": "https://github.com/shivvamm/test-pkg#readme"
+}
