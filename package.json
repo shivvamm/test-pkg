@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/shivvamm/test-pkg.git"
   },
+  "publishConfig": {
+    "@shivvamm:registry": "https://npm.pkg.github.com"
+  },
   "author": "shivam",
   "license": "MIT",
   "bugs": {
